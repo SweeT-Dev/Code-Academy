@@ -7,7 +7,7 @@ A caption for the image
 A timeline of the person's life in the form of a list
 This can be completed with only HTML, but use CSS to give it some style.
 
-=============================================================================================================================================================
+========================================================================================================================================================================================
 
 2. Create a Wikipedia page
 Wikipedia is one of the backbones of the internet, and it has a relatively simple layout. Create a Wikipedia page on the topic of your choice. It should include:
@@ -17,7 +17,7 @@ A table of contents with links to sections within the page
 Superscript number links that link to the corresponding number in the reference section
 An ordered list of references
 
-=============================================================================================================================================================
+========================================================================================================================================================================================
 
 3. Create an HTML and CSS-only search results page
 Create a mock Google search results page. It should include:
@@ -27,23 +27,23 @@ A search bar at the top
 A list of search results with clickable links
 Here's an example of what it might look like.
 
-=============================================================================================================================================================
+========================================================================================================================================================================================
 
 4. Create a survey form
 HTML forms are an important part of many websites. Create a form for a survey on the topic of your choice.
 
 Include a variety of answer options, including text fields, dropdowns, radio buttons, checkboxes, and a submit button. Don't forget to add a title, and consider using CSS to improve the look of your form. Here's an example.
 
-=============================================================================================================================================================
+========================================================================================================================================================================================
 
 5. Create a parallax website
 A parallax website has a fixed image in the background that stays in place while you scroll through other parts of the page. It's a popular effect in web design and gives an elegant look and feel to a page.
 
-=============================================================================================================================================================
+========================================================================================================================================================================================
 
 Design a parallax webpage. Divide the page into three or four sections. Set three or four background images and align text to each section. You'll use margins, padding, and background positioning to create the effect. Here's an example of a parallax website.
 
-=============================================================================================================================================================
+========================================================================================================================================================================================
 
 6. Create a product landing page
 Many websites are designed to showcase and sell products. A product landing page needs to be attractive, informative, and easy to read to appeal to consumers. Your product landing page should include:
@@ -54,12 +54,12 @@ Columns
 Multiple sections
 Consider the color scheme and ensure that elements don't overlap each other.
 
-=============================================================================================================================================================
+========================================================================================================================================================================================
 
 7. Create a restaurant website
 A restaurant website is similar to a product landing page in that it should showcase the restaurant and menu items appealingly. It's more complex, though, with images of different foods and drinks. First, create a responsive restaurant website using a viewport and media queries.
 
-=============================================================================================================================================================
+========================================================================================================================================================================================
 
 8. Create a chessboard
 This challenge teaches you how to create and format a table. You'll also need to learn how to insert UNICODE characters.
@@ -79,12 +79,12 @@ Black Bishop: &#9821;
 Back Knight: &#9822;
 Black Pawn: &#9823;
 
-=============================================================================================================================================================
+========================================================================================================================================================================================
 
 9. Create an event or conference website
 This challenge continues the theme of building attractive web pages. This one will include a registration button that links to a registration form. You'll also need details and images of the speaker or performer and venue. Describe the event and include multiple sections along with a header and footer. Consider the color scheme and use fonts that are readable and reflect the theme of the event.
 
-=============================================================================================================================================================
+========================================================================================================================================================================================
 
 10. Create a portfolio website
 Take what you've learned throughout the other challenges and create a portfolio website. The website should reflect your skills.
