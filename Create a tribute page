@@ -23,7 +23,6 @@ This can be completed with only HTML, but use CSS to give it some style.
 	p{
 		padding: 10px;
 	}
-	}
 	</style>
 </head>
 <body>
